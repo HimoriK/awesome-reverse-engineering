@@ -22,12 +22,6 @@
 
 
 - Reverse Engineering Resource Collection. 3500+ open source tools, 2300+ blog posts.
-- This page only contains limited tools and posts. [Read Full Version](https://github.com/HimoriK/awesome-reverse-engineering/blob/master/Readme_full_en.md)
-
-
-# PS
-[中文版本](https://github.com/alphaSeclab/awesome-reverse-engineering/blob/master/Readme.md)
-
 
 # Directory
 - [Windows](#2f81493de610f9b796656b269380b2de)
